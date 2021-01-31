@@ -1,7 +1,7 @@
 {
-    "name": "v2ray-heroku",
-    "description": "deploy v2ray to heroku",
-    "keywords": ["v2ray"],
+    "name": "v2r",
+    "description": "deploy v2r to heroku",
+    "keywords": ["v2r"],
     "env": {
         "UUID": {
             "description": "v2ray UUID",
